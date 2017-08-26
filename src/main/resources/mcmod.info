@@ -1,0 +1,16 @@
+[
+{
+  "modid": "klcconnector",
+  "name": "Keyboard Light Composer Connector",
+  "description": "This mod sends client data to the Keyboard Light Composer",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/enoy19",
+  "updateUrl": "",
+  "authorList": ["enoy"],
+  "credits": "The Forge and FML guys!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
