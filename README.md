@@ -1,6 +1,8 @@
-# Keyboard Light Composer Minecraft Mod
+# Keyboard Light Composer Minecraft Mod [1.11.2]
 Minecraft Forge Mod to access stats in Minecraft within the Keyboard Light Composer.
 Map your Health, Hunger, XP and more on your RGB Keyboard!
+
+[![Downloads](https://img.shields.io/github/downloads/enoy19/keyboard-light-composer-mc-connector/total.svg)]()
 
 ## Get the Mod
  * [Download Release](https://github.com/enoy19/keyboard-light-composer-mc-connector/releases)
